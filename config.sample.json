@@ -1,0 +1,15 @@
+{
+    "transmission": {
+        "url": "localhost",
+        "user": "admin",
+        "password": "12345678"
+    },
+    "site": {
+        "name": "ourbits",
+        "passkey": "YOUR_PASSKEY_HERE",
+        "cookie": "YOUR_COOKIE_HERE"
+    },
+    "size_limit": 60000,
+    "storage_limit": 500000,
+    "policy": "default"
+}
