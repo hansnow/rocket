@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-// Echo just a placeholder
-func Echo() {
-	fmt.Println("test")
+// Clear 删除所有被rocket添加的种子
+func Clear() {
+	fmt.Println("clear all controlled torrents")
 }
